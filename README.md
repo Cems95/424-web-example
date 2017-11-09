@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 424-web-example
+learning example repository for ISOM 424 Students
+## Introduction
+THis project enables us to learn source code control using git
+### Purpose
+TO have code we can use for hands on excersises
 
 - Bulleted
 - List
