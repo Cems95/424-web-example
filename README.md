@@ -17,10 +17,8 @@ learning example repository for ISOM 424 Students
 THis project enables us to learn source code control using git
 ### Purpose
 TO have code we can use for hands on excersises
-##  Conflict on Master
-this section will be different on the conflict branch
-##Method
-How will we resolve this conflict, since the "base" now has a conflict in it?
+## no more conflicts
+we can merge back into master without any trouble
 
 - Bulleted
 - List
